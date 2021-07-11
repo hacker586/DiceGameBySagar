@@ -1,0 +1,28 @@
+body{
+  background-color: #1d4d4f;
+  text-align: center;
+}
+h1{
+  color: white;
+  font-size: 5rem;
+  margin-top: 0;
+}
+h2{
+  color: white;
+  font-size: 2rem;
+}
+div{
+  color: white;
+  font-size: 3rem;
+  display: inline-block;
+}
+.space1{
+  margin-right: 20px;
+}
+.space2{
+  margin-left: 20px;
+}
+h3
+{
+  color: white;
+}
